@@ -1,1 +1,1 @@
-Project for KTS
+Project for KTS-school
